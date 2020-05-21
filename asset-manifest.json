@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cdk-global-react-notes/static/css/main.5b6cac40.chunk.css",
+    "main.js": "/cdk-global-react-notes/static/js/main.671d7ebf.chunk.js",
+    "main.js.map": "/cdk-global-react-notes/static/js/main.671d7ebf.chunk.js.map",
+    "runtime-main.js": "/cdk-global-react-notes/static/js/runtime-main.3fd27d1a.js",
+    "runtime-main.js.map": "/cdk-global-react-notes/static/js/runtime-main.3fd27d1a.js.map",
+    "static/js/2.d50bbbb7.chunk.js": "/cdk-global-react-notes/static/js/2.d50bbbb7.chunk.js",
+    "static/js/2.d50bbbb7.chunk.js.map": "/cdk-global-react-notes/static/js/2.d50bbbb7.chunk.js.map",
+    "index.html": "/cdk-global-react-notes/index.html",
+    "precache-manifest.b4b84bc5eadbe526c30a345bf337d1d7.js": "/cdk-global-react-notes/precache-manifest.b4b84bc5eadbe526c30a345bf337d1d7.js",
+    "service-worker.js": "/cdk-global-react-notes/service-worker.js",
+    "static/css/main.5b6cac40.chunk.css.map": "/cdk-global-react-notes/static/css/main.5b6cac40.chunk.css.map",
+    "static/js/2.d50bbbb7.chunk.js.LICENSE.txt": "/cdk-global-react-notes/static/js/2.d50bbbb7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fd27d1a.js",
+    "static/js/2.d50bbbb7.chunk.js",
+    "static/css/main.5b6cac40.chunk.css",
+    "static/js/main.671d7ebf.chunk.js"
+  ]
+}
