@@ -43,7 +43,7 @@ export default function Tasks() {
 
     )
 }
-function TaskList(props) {
+export function TaskList(props) {
     if (props.tasksData.length) {
         return (
             <>
