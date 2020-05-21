@@ -1,0 +1,19 @@
+.filter-panel {
+    display: flex;
+}
+.filter-panel p {
+    width: 30%;
+}
+.filter-panel input {
+    margin: 20px;
+    line-height: 20px;
+    border: 2px solid darkcyan;
+    width: 200px;
+    padding: 5px;
+}
+
+.filter-panel button {
+    background: lightblue;
+    margin: 20px;
+    border-radius: 5px;
+}

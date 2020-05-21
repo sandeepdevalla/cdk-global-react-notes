@@ -1,0 +1,8 @@
+
+.tasks-layout {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    overflow: auto;
+    height: 80vh;
+}

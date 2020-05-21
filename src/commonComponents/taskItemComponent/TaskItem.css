@@ -1,0 +1,28 @@
+.task-panel {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid darkcyan;
+    margin: 20px;
+    width: 250px;
+    height: 380px;
+
+}
+.task-panel .task-title {
+    margin: 15px;
+    border: 1px solid black;
+
+}
+.task-panel .task-content {
+    border: 1px solid black;
+    margin: 15px;
+    height: 300px;
+    align-items: center;
+    justify-content: center;
+    display: block;
+    overflow: auto;
+    text-align: initial;
+    padding: 10px;
+}
+.task-panel .task-content p {
+    width: 100%;
+}
